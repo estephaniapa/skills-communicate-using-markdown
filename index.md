@@ -7,3 +7,7 @@ Agregué alguna información escrita en markdown
 ```
 import pandas as pd
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
